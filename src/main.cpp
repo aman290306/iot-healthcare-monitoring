@@ -103,8 +103,8 @@
 #define WIFI_SSID "Wokwi-GUEST"
 #define WIFI_PASS ""
 
-#define IO_USERNAME "aman290306"
-#define IO_KEY "aio_pkwv05iT6YWlnWugEPDf2ZGc5iVS"
+#define IO_USERNAME ""
+#define IO_KEY ""
 
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
